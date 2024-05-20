@@ -1,4 +1,4 @@
-Here's the updated README file with the information you provided, including the mention of Explainable AI:
+Certainly! Here's the README file formatted for your GitHub repository:
 
 ```markdown
 # Lung Cancer Detection with LIME Explainable AI
@@ -37,47 +37,49 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/Mrunmayee-762004/Lung_Cancer_Detection.git
-cd Lung_Cancer_Detection
-```
+    ```bash
+    git clone https://github.com/Mrunmayee-762004/Lung_Cancer_Detection.git
+    cd Lung_Cancer_Detection
+    ```
 
 2. Create a virtual environment:
 
-```bash
-python -m venv venv
-```
+    ```bash
+    python -m venv venv
+    ```
 
 3. Activate the virtual environment:
 
-- On Windows:
-  ```bash
-  venv\Scripts\activate
-  ```
-- On macOS/Linux:
-  ```bash
-  source venv/bin/activate
-  ```
+    - On Windows:
+      ```bash
+      venv\Scripts\activate
+      ```
+    - On macOS/Linux:
+      ```bash
+      source venv/bin/activate
+      ```
 
 4. Install the required packages:
 
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 5. Run the application:
 
-```bash
-python app.py
-```
+    ```bash
+    python app.py
+    ```
 
 6. Open your web browser and go to:
 
-```
-http://127.0.0.1:5000
-```
+    ```
+    http://127.0.0.1:5000
+    ```
 
 ## Usage
 
 Once the application is running, you can use the web interface to input patient data. The application will process the data and provide a prediction about the likelihood of lung cancer. Additionally, the LIME Explainable AI feature will provide explanations for the model's predictions, allowing users to understand the reasoning behind the results.
 ```
+
+You can copy and paste this into your `README.md` file in your GitHub repository.
