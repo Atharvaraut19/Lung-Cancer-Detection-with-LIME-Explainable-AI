@@ -1,6 +1,4 @@
-Certainly! Here's the README file formatted for your GitHub repository:
 
-```markdown
 # Lung Cancer Detection with LIME Explainable AI
 
 This repository contains the implementation of a lung cancer detection system. The project uses deep learning techniques to predict the presence of lung cancer based on a given dataset. The system is built using Python and deployed using Flask, a micro web framework. The application also incorporates LIME (Local Interpretable Model-Agnostic Explanations) to provide Explainable AI capabilities, allowing users to understand the reasoning behind the model's predictions.
@@ -80,6 +78,3 @@ To get a local copy up and running, follow these steps:
 ## Usage
 
 Once the application is running, you can use the web interface to input patient data. The application will process the data and provide a prediction about the likelihood of lung cancer. Additionally, the LIME Explainable AI feature will provide explanations for the model's predictions, allowing users to understand the reasoning behind the results.
-```
-
-You can copy and paste this into your `README.md` file in your GitHub repository.
